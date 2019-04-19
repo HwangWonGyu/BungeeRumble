@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 877968effe6d6cb40a0640ff04042bfa
+timeCreated: 1511341430
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Head
+    100004: Bip001 HeadNub
+    100006: Bip001 L Calf
+    100008: Bip001 L Clavicle
+    100010: Bip001 L Finger0
+    100012: Bip001 L Finger01
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Finger1
+    100018: Bip001 L Finger11
+    100020: Bip001 L Finger1Nub
+    100022: Bip001 L Finger2
+    100024: Bip001 L Finger21
+    100026: Bip001 L Finger2Nub
+    100028: Bip001 L Finger3
+    100030: Bip001 L Finger31
+    100032: Bip001 L Finger3Nub
+    100034: Bip001 L Finger4
+    100036: Bip001 L Finger41
+    100038: Bip001 L Finger4Nub
+    100040: Bip001 L Foot
+    100042: Bip001 L Forearm
+    100044: Bip001 L Hand
+    100046: Bip001 L Thigh
+    100048: Bip001 L Toe0
+    100050: Bip001 L Toe0Nub
+    100052: Bip001 L UpperArm
+    100054: Bip001 Neck
+    100056: Bip001 Pelvis
+    100058: Bip001 R Calf
+    100060: Bip001 R Clavicle
+    100062: Bip001 R Finger0
+    100064: Bip001 R Finger01
+    100066: Bip001 R Finger0Nub
+    100068: Bip001 R Finger1
+    100070: Bip001 R Finger11
+    100072: Bip001 R Finger1Nub
+    100074: Bip001 R Finger2
+    100076: Bip001 R Finger21
+    100078: Bip001 R Finger2Nub
+    100080: Bip001 R Finger3
+    100082: Bip001 R Finger31
+    100084: Bip001 R Finger3Nub
+    100086: Bip001 R Finger4
+    100088: Bip001 R Finger41
+    100090: Bip001 R Finger4Nub
+    100092: Bip001 R Foot
+    100094: Bip001 R Forearm
+    100096: Bip001 R Hand
+    100098: Bip001 R Thigh
+    100100: Bip001 R Toe0
+    100102: Bip001 R Toe0Nub
+    100104: Bip001 R UpperArm
+    100106: Bip001 Spine
+    100108: Bip001 Spine1
+    100110: //RootNode
+    100112: knight_acc_belt
+    100114: knight_acc_chain01
+    100116: knight_acc_ear01
+    100118: knight_acc_knee01
+    100120: knight_acc_knee02
+    100122: knight_acc_mid01
+    100124: knight_acc_mid02
+    100126: knight_acc_shoulder01
+    100128: knight_acc_shoulder01 1
+    100130: knight_acc_shoulder03
+    100132: knight_acc_shoulder04
+    100134: knight_body
+    100136: knight_cloth
+    100138: knight_hair00
+    100140: knight_hair01
+    100142: knight_hair02
+    100144: knight_hair03
+    100146: knight_hairback01
+    100148: knight_hairback02
+    100150: knight_hairback03
+    100152: knight_hairback04
+    100154: knight_hairback05
+    100156: knight_horn
+    100158: knight_tail
+    400000: Bip001
+    400002: Bip001 Head
+    400004: Bip001 HeadNub
+    400006: Bip001 L Calf
+    400008: Bip001 L Clavicle
+    400010: Bip001 L Finger0
+    400012: Bip001 L Finger01
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Finger1
+    400018: Bip001 L Finger11
+    400020: Bip001 L Finger1Nub
+    400022: Bip001 L Finger2
+    400024: Bip001 L Finger21
+    400026: Bip001 L Finger2Nub
+    400028: Bip001 L Finger3
+    400030: Bip001 L Finger31
+    400032: Bip001 L Finger3Nub
+    400034: Bip001 L Finger4
+    400036: Bip001 L Finger41
+    400038: Bip001 L Finger4Nub
+    400040: Bip001 L Foot
+    400042: Bip001 L Forearm
+    400044: Bip001 L Hand
+    400046: Bip001 L Thigh
+    400048: Bip001 L Toe0
+    400050: Bip001 L Toe0Nub
+    400052: Bip001 L UpperArm
+    400054: Bip001 Neck
+    400056: Bip001 Pelvis
+    400058: Bip001 R Calf
+    400060: Bip001 R Clavicle
+    400062: Bip001 R Finger0
+    400064: Bip001 R Finger01
+    400066: Bip001 R Finger0Nub
+    400068: Bip001 R Finger1
+    400070: Bip001 R Finger11
+    400072: Bip001 R Finger1Nub
+    400074: Bip001 R Finger2
+    400076: Bip001 R Finger21
+    400078: Bip001 R Finger2Nub
+    400080: Bip001 R Finger3
+    400082: Bip001 R Finger31
+    400084: Bip001 R Finger3Nub
+    400086: Bip001 R Finger4
+    400088: Bip001 R Finger41
+    400090: Bip001 R Finger4Nub
+    400092: Bip001 R Foot
+    400094: Bip001 R Forearm
+    400096: Bip001 R Hand
+    400098: Bip001 R Thigh
+    400100: Bip001 R Toe0
+    400102: Bip001 R Toe0Nub
+    400104: Bip001 R UpperArm
+    400106: Bip001 Spine
+    400108: Bip001 Spine1
+    400110: //RootNode
+    400112: knight_acc_belt
+    400114: knight_acc_chain01
+    400116: knight_acc_ear01
+    400118: knight_acc_knee01
+    400120: knight_acc_knee02
+    400122: knight_acc_mid01
+    400124: knight_acc_mid02
+    400126: knight_acc_shoulder01
+    400128: knight_acc_shoulder01 1
+    400130: knight_acc_shoulder03
+    400132: knight_acc_shoulder04
+    400134: knight_body
+    400136: knight_cloth
+    400138: knight_hair00
+    400140: knight_hair01
+    400142: knight_hair02
+    400144: knight_hair03
+    400146: knight_hairback01
+    400148: knight_hairback02
+    400150: knight_hairback03
+    400152: knight_hairback04
+    400154: knight_hairback05
+    400156: knight_horn
+    400158: knight_tail
+    2300000: knight_acc_belt
+    2300002: knight_acc_chain01
+    2300004: knight_acc_ear01
+    2300006: knight_acc_knee01
+    2300008: knight_acc_knee02
+    2300010: knight_acc_mid01
+    2300012: knight_acc_mid02
+    2300014: knight_acc_shoulder01
+    2300016: knight_acc_shoulder01 1
+    2300018: knight_acc_shoulder03
+    2300020: knight_acc_shoulder04
+    2300022: knight_hair00
+    2300024: knight_hair01
+    2300026: knight_hair02
+    2300028: knight_hair03
+    2300030: knight_hairback01
+    2300032: knight_hairback02
+    2300034: knight_hairback03
+    2300036: knight_hairback04
+    2300038: knight_hairback05
+    2300040: knight_horn
+    2300042: knight_tail
+    3300000: knight_acc_belt
+    3300002: knight_acc_chain01
+    3300004: knight_acc_ear01
+    3300006: knight_acc_knee01
+    3300008: knight_acc_knee02
+    3300010: knight_acc_mid01
+    3300012: knight_acc_mid02
+    3300014: knight_acc_shoulder01
+    3300016: knight_acc_shoulder01 1
+    3300018: knight_acc_shoulder03
+    3300020: knight_acc_shoulder04
+    3300022: knight_hair00
+    3300024: knight_hair01
+    3300026: knight_hair02
+    3300028: knight_hair03
+    3300030: knight_hairback01
+    3300032: knight_hairback02
+    3300034: knight_hairback03
+    3300036: knight_hairback04
+    3300038: knight_hairback05
+    3300040: knight_horn
+    3300042: knight_tail
+    4300000: knight_acc_knee01
+    4300002: knight_acc_knee02
+    4300004: knight_acc_shoulder03
+    4300006: knight_acc_shoulder01
+    4300008: knight_acc_shoulder04
+    4300010: knight_acc_shoulder01
+    4300012: knight_horn
+    4300014: knight_hair00
+    4300016: knight_acc_ear01
+    4300018: knight_hair01
+    4300020: knight_hair02
+    4300022: knight_hair03
+    4300024: knight_hairback01
+    4300026: knight_hairback02
+    4300028: knight_hairback03
+    4300030: knight_hairback04
+    4300032: knight_hairback05
+    4300034: knight_acc_chain01
+    4300036: knight_acc_mid01
+    4300038: knight_acc_mid02
+    4300040: knight_acc_belt
+    4300042: knight_body
+    4300044: knight_cloth
+    4300046: knight_tail
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: knight_body
+    13700002: knight_cloth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
